@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Basic hashTable from scratch
- * Requirement 1: Time complexity for search should be theta(1)
+ * Requirement 1: Time complexity for search should be O(1)
  * Requirement 2: Handle collisions
  * Requirement 3: Maintain good performance by rehashing
  * @param <K>
